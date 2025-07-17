@@ -12,7 +12,6 @@ DURATION : 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-# 🎙️ Audio Transcription with SpeechRecognition and Google Web Speech API
 
 This Python project demonstrates how to convert spoken words from an audio file into text using the `SpeechRecognition` library and Google's free **Web Speech API**. The script processes `.wav` files and outputs a text transcription, making it a powerful starting point for applications like voice assistants, voice-to-text editors, podcast analysis, subtitle generation, and audio indexing.
 
